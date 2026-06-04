@@ -1,4 +1,4 @@
-##Job Application Portal (Serverless Web Application)
+##Job Application Portal (Serverless Web Application)##
 ##Project Overview
 
 This project is a serverless Job Application Portal built using AWS services. Users can view job details and submit job applications through a web form. The system processes data using AWS Lambda and stores it in DynamoDB without using any traditional backend server.
